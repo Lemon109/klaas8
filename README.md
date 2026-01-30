@@ -18,7 +18,7 @@
 你好！(。・∀・)ノ这里是我的个人主页。
 
 * 一只某校在读学生
-* 只会搭火柴盒的Minecraft玩家 
+* 只会搭火柴盒的Minecraft玩家
 * 初级动漫爱好者
 * 干啥啥不行，摸鱼第一名<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F55.惬意.png" width="30">
 
