@@ -20,7 +20,9 @@
 * 一只某校在读学生
 * 只会搭火柴盒的Minecraft玩家
 * 初级动漫爱好者
-* 干啥啥不行，摸鱼第一名<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F55.惬意.png" width="30">
+* 干啥啥不行，摸鱼第一名
+
+<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F55.惬意.png" width="30">
 
 只会写简单的代码和一些好玩的小东西<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F120.笑哭.png" width="30">
 
