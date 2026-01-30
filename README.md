@@ -15,8 +15,6 @@
 # Hello <img src="https://r2.lsmr.nl/Emoji%2FSticker%2F45.开心.png" width="30">
 
 
-<img src="https://weather-icon.lsmr.nl/@anhui?v=1" align="right">
-
 你好！(。・∀・)ノ这里是我的个人主页。
 
 * 一只某校在读学生
