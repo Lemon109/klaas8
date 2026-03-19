@@ -1,7 +1,5 @@
 [学生党赚钱神器，保底一杯奶茶，上不封顶](https://nzklp.shangbangzhuan6.top/?code=12097404)
 
-只会写简单的代码和一些好玩的小东西<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F120.笑哭.png" width="30">
-
 
 ----------
 
