@@ -6,20 +6,6 @@
 ----------
 
 常用的工具:
-<!-- Gif -->
-
-<div align="center">
-<img src="https://r2.lsmr.nl/about/855961982.gif" width="50" title="html">
-<img alt="css" src="https://r2.lsmr.nl/about/2415112337.gif" width="50" title="css">
-<img alt="VSCode" src="https://r2.lsmr.nl/about/1089571092.webp" width="50" title="vscode">
-<img alt="python" src="https://r2.lsmr.nl/about/3049801562.webp" width="50" title="python">
-<img alt="javascript" src="https://r2.lsmr.nl/about/651026981.webp" width="50" title="javascript">
-<img alt="sublime" src="https://r2.lsmr.nl/about/1072282404.gif" width="50" title="sublime">
-<img alt="github" src="https://r2.lsmr.nl/about/1784442089.webp" width="50" title="github">
-<img alt="node" src="https://r2.lsmr.nl/about/3956306628.gif" width="45" title="node">
-</div>
-
-<!-- just img -->
 
 <div align="center"><img src="https://r2.lsmr.nl/about/3238318718.png" /></div>
 
