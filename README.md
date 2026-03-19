@@ -5,7 +5,6 @@
 
 ----------
 
-常用的工具:
 ![img](https://img.shields.io/badge/-HTML5-d85b25?style=flat-square&logo=HTML5&logoColor=fff)
 ![img](https://img.shields.io/badge/-CSS3-255bd8?style=flat-square&logo=css3&logoColor=fff)
 ![img](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff) 
