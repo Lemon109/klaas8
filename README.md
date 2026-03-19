@@ -1,20 +1,3 @@
-
-
-<a href="#">
-
-<div align="center">
-<a href="https://nzklp.xiyouji3.work/?code=12097404"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></div></a></a>&emsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/liangshengmoran/liangshengmoran@output/github-contribution-grid-snake.svg" />
-</picture>
-
-# Hello <img src="https://r2.lsmr.nl/Emoji%2FSticker%2F45.开心.png" width="30">
-
-
-你好！(。・∀・)ノ这里是我的个人主页。
-
 [学生党赚钱神器，保底一杯奶茶，上不封顶](https://nzklp.shangbangzhuan6.top/?code=12097404)
 
 只会写简单的代码和一些好玩的小东西<img src="https://r2.lsmr.nl/Emoji%2FSticker%2F120.笑哭.png" width="30">
