@@ -1,6 +1,3 @@
-[学生党赚钱神器，保底一杯奶茶，上不封顶](https://nzklp.shangbangzhuan6.top/?code=12097404)
-
-
 ----------
 
 ![img](https://img.shields.io/badge/-HTML5-d85b25?style=flat-square&logo=HTML5&logoColor=fff)
